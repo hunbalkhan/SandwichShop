@@ -49,8 +49,6 @@ public class Main {
         } // Else prompt the next question.
 
 
-
-
         // Asks the user for age.
         System.out.print("Please enter your age: \n");
         int age = scanner.nextInt();
